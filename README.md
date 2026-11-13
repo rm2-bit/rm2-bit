@@ -129,14 +129,6 @@
 
 ---
 
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rm2-bit/rm2-bit/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
@@ -152,12 +144,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <i>"Great software is built one thoughtful line at a time."</i>
-</p>
-
-<h3 align="center">⚡ Think • Code • Build • Repeat ⚡</h3>
 
 <p align="center">
   Thanks for visiting my profile! ⭐
