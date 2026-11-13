@@ -19,16 +19,15 @@
 
 👨‍💻 About Me
 
+```bash
 ┌──(rm2-bit㉿developer)-[~/about]
 └─$ ./initialize.sh
-
-// 4th-year IT @ Jalpaiguri Government Engineering College
 
 [+] Identity    : Raj Mondal
 [+] Profession  : Software Engineer
 [+] Education   : Information Technology
-[+] Languages   : C++, Python, Java, JavaScript
-[+] Engineering : DSA | Security | AI-ML | System Design
+[+] Languages   : Java, Python, C++, JavaScript
+[+] Engineering : DSA | Security | AI/ML | System Design
 [+] Passion     : Exploring new technologies, learning, and gaining hands-on experience.
 [+] Mission     : To become an exceptional Software Engineer.
 
