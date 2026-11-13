@@ -12,15 +12,34 @@
 
 ## 💫 About Me
 
-I'm a final-year Information Technology student passionate about software development, problem-solving, and artificial intelligence.
+public class RajMondal {
 
-- 🎓 Information Technology Undergraduate
-- 💻 Interested in Software Engineering and Backend Development
-- 🌱 Currently strengthening Java, DSA, and AI/ML
-- 🤖 Exploring Machine Learning and Computer Vision
-- 🚀 Building practical projects to solve real-world problems
-- 🎯 Focused on continuous learning and technical growth
+    // Final-year Information Technology Student
+    // Jalpaiguri Government Engineering College
 
+    String role = "Software Engineer | Java Developer";
+
+    String specialization =
+        "Backend Development | AI/ML | Problem Solving";
+
+    String languages =
+        "Java | Python | C++ | JavaScript";
+
+    String technologies =
+        "Node.js | Express.js | Next.js | REST APIs";
+
+    String interests =
+        "Software Engineering | Machine Learning | Computer Vision";
+
+    String lookingFor =
+        "Software Engineering Opportunities";
+
+    void build() {
+        System.out.println(
+            "Turning complex problems into elegant solutions. 🚀"
+        );
+    }
+}
 ---
 
 ## 🛠️ Tech Stack
