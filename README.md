@@ -2,16 +2,17 @@
 
 <h1 align="center">Hey there, I'm Raj Mondal 👋</h1>
 
-<h3 align="center">Software Engineer | Backend Developer | AI/ML Enthusiast</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Software+Engineering+Enthusiast;B.Tech+IT+%7C+Graduating+2027;Backend+%26+AI%2FML+Developer;Building+Ideas+Into+Reality" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Graduation-2027-00C2FF?style=for-the-badge&logo=google-scholar&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-India-00C853?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-2ECC71?style=for-the-badge&logo=checkmarx&logoColor=white" />
+  <img src="https://img.shields.io/badge/GRADUATION-2027-00C2FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20ENGINEERING-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LOCATION-INDIA-FF9800?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 ---
@@ -25,8 +26,8 @@
 [+] Identity    : Raj Mondal
 [+] Profession  : Software Engineer
 [+] Education   : Information Technology
-[+] Languages   : Java, Python, C++, JavaScript
-[+] Engineering : Backend | DSA | AI/ML
+[+] Languages   : C++, Python, Java, JavaScript
+[+] Engineering :  DSA | Security | AI-ML
 [+] Passion     : Building & Problem Solving
 [+] Mission     : Turning ideas into software
 
@@ -70,28 +71,46 @@
 <tr>
 <td width="50%">
 <h3 align="center">🤖 Smart Loitering Detection</h3>
-<p align="center">Computer vision system that detects unusual human presence in a monitored zone.</p>
-<p align="center"><strong>Python | YOLO | OpenCV</strong></p>
+<p align="center">An intelligent computer vision system that detects people staying within a monitored zone for unusual durations.</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+</p>
 <p align="center"><a href="YOUR_LOITERING_REPO_URL">View Project →</a></p>
 </td>
 <td width="50%">
-<h3 align="center">📊 Inventory Demand Forecasting</h3>
-<p align="center">Machine learning system for predicting product demand using historical sales data.</p>
-<p align="center"><strong>Python | Scikit-learn | Pandas</strong></p>
-<p align="center"><a href="YOUR_INVENTORY_REPO_URL">View Project →</a></p>
+<h3 align="center">🧠 AI Customer Support Agent</h3>
+<p align="center">An AI-powered support solution designed to understand customer queries, analyze intent, and assist with automated responses.</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/AI-8A2BE2?style=flat-square" />
+<img src="https://img.shields.io/badge/NLP-00C853?style=flat-square" />
+</p>
+<p align="center"><a href="YOUR_AI_SUPPORT_REPO_URL">View Project →</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%">
-<h3 align="center">🔐 Privacy-Preserving ResNet-20</h3>
-<p align="center">Exploring encrypted deep learning using Fully Homomorphic Encryption.</p>
-<p align="center"><strong>Python | PyTorch | CKKS</strong></p>
-<p align="center"><a href="YOUR_RESNET_REPO_URL">View Project →</a></p>
+<h3 align="center">🐧 Linux Automation Toolkit</h3>
+<p align="center">A collection of Linux automation scripts and utilities designed to simplify repetitive system administration tasks and workflows.</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/Shell_Scripting-333333?style=flat-square" />
+</p>
+<p align="center"><a href="YOUR_LINUX_REPO_URL">View Project →</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%">
 <h3 align="center">🎵 Personal Music Library</h3>
-<p align="center">A web application for organizing music links and managing playlists.</p>
-<p align="center"><strong>Next.js | Supabase | JavaScript</strong></p>
+<p align="center">A web application for organizing music links, managing playlists, and building a personal music collection.</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</p>
 <p align="center"><a href="YOUR_MUSIC_REPO_URL">View Project →</a></p>
 </td>
 </tr>
