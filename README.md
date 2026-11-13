@@ -5,7 +5,7 @@
 <h3 align="center">Software Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Software+Engineering+Enthusiast;B.Tech+IT+%7C+Graduating+2027;Backend+%26+AI%2FML+Developer;Building+Ideas+Into+Reality" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2200&pause=900&color=00C2FF&center=true&vCenter=true&width=650&lines=DSA+%7C+Debugger+%7C+Developer;Write+%E2%80%A2+Read+%E2%80%A2+Execute;IT+Undergrad+%40+JGEC+%282027%29;Open+to+Work+%7C+Open+to+Relocate" />
 </p>
 
 <p align="center">
@@ -77,7 +77,7 @@
 <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square" />
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
 </p>
-<p align="center"><a href="YOUR_LOITERING_REPO_URL">View Project →</a></p>
+<p align="center"><a href="https://github.com/rm2-bit/Loitering-Detection">View Project →</a></p>
 </td>
 <td width="50%">
 <h3 align="center">🧠 AI Customer Support Agent</h3>
@@ -87,7 +87,7 @@
 <img src="https://img.shields.io/badge/AI-8A2BE2?style=flat-square" />
 <img src="https://img.shields.io/badge/NLP-00C853?style=flat-square" />
 </p>
-<p align="center"><a href="YOUR_AI_SUPPORT_REPO_URL">View Project →</a></p>
+<p align="center"><a href="https://github.com/rm2-bit/Ai-support-agent">View Project →</a></p>
 </td>
 </tr>
 <tr>
@@ -99,10 +99,8 @@
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
 <img src="https://img.shields.io/badge/Shell_Scripting-333333?style=flat-square" />
 </p>
-<p align="center"><a href="YOUR_LINUX_REPO_URL">View Project →</a></p>
+<p align="center"><a href="https://github.com/rm2-bit/linux-automation-toolkit">View Project →</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%">
 <h3 align="center">🎵 Personal Music Library</h3>
 <p align="center">A web application for organizing music links, managing playlists, and building a personal music collection.</p>
@@ -111,37 +109,10 @@
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 </p>
-<p align="center"><a href="YOUR_MUSIC_REPO_URL">View Project →</a></p>
+<p align="center"><a href="https://github.com/rm2-bit/Music_Playlist">View Project →</a></p>
 </td>
 </tr>
 </table>
-
----
-
-## 🧠 Current Focus
-
-```python
-current_focus = {
-    "Software Engineering": [
-        "Data Structures & Algorithms",
-        "Object-Oriented Programming",
-        "System Design"
-    ],
-    "Backend Development": [
-        "Java",
-        "Node.js",
-        "REST APIs",
-        "Database Design"
-    ],
-    "Artificial Intelligence": [
-        "Machine Learning",
-        "Computer Vision",
-        "Deep Learning"
-    ]
-}
-
-print("Learning today, engineering tomorrow. 🚀")
-```
 
 ---
 
@@ -172,10 +143,10 @@ print("Learning today, engineering tomorrow. 🚀")
   <a href="https://github.com/rm2-bit">
     <img src="https://img.shields.io/badge/GitHub-rm2--bit-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.Linkedin.com/in/raj-mondal">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:mondalraj1784@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
