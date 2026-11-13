@@ -5,13 +5,13 @@
 <h3 align="center">Software Engineer | Backend Developer | AI/ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Software+Engineering+Enthusiast;Building+Scalable+Solutions;Exploring+AI+%26+Machine+Learning;Code.+Debug.+Build.+Repeat." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Software+Engineering+Enthusiast;B.Tech+IT+%7C+Graduating+2027;Backend+%26+AI%2FML+Developer;Building+Ideas+Into+Reality" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-India-8A2BE2?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-00C2FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Always%20Learning-00C853?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Graduation-2027-00C2FF?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-India-00C853?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 ---
