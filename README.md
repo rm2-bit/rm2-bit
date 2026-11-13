@@ -1,66 +1,111 @@
-# Hi, I'm Raj Mondal 👋
+# 👋 Hey, I'm Raj Mondal
 
-### Java Developer | Software Engineer | AI/ML Enthusiast
+### 🚀 Software Developer | Java Developer | AI/ML Enthusiast
 
-I'm a final-year Information Technology student passionate about building practical software solutions and exploring new technologies.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Building+Ideas+Into+Reality;Java+%7C+Python+%7C+AI%2FML;Always+Learning+Something+New" />
+</p>
 
-- 🔭 Currently working on Java, Data Structures & Algorithms, and AI/ML projects.
-- 🌱 Learning advanced Java, backend development, and system design.
-- 💻 Interested in Software Development, Backend Engineering, and Machine Learning.
-- 🚀 Building projects that solve real-world problems.
-- 📫 Connect with me: [LinkedIn](https://www.Linkedin.com/in/raj-mondal)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3" width="100%" />
+</p>
 
----
+## 💫 About Me
 
-### 🛠️ Tech Stack
+I'm a final-year Information Technology student passionate about software development, problem-solving, and artificial intelligence.
 
-**Programming Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Web Development**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-
-**Tools & Technologies**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+- 🎓 Information Technology Undergraduate
+- 💻 Interested in Software Engineering and Backend Development
+- 🌱 Currently strengthening Java, DSA, and AI/ML
+- 🤖 Exploring Machine Learning and Computer Vision
+- 🚀 Building practical projects to solve real-world problems
+- 🎯 Focused on continuous learning and technical growth
 
 ---
 
-### 🚀 Featured Projects
+## 🛠️ Tech Stack
 
-- **Inventory Demand Forecasting** – Machine learning-based sales prediction.
-- **Smart Loitering Detection** – Real-time person detection using YOLO.
-- **Privacy-Preserving ResNet-20** – Exploring machine learning with Fully Homomorphic Encryption.
-- **Personal Music Library** – A web application for managing music links and playlists.
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript" />
+</p>
+
+### Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs,express,nextjs" />
+</p>
+
+### AI / Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+</p>
+
+### Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,mysql,supabase" />
+</p>
 
 ---
 
-### 📊 GitHub Statistics
+## 🚀 Featured Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+| Project | Description | Technologies |
+|---|---|---|
+| Smart Loitering Detection | Detects unusual human presence in monitored zones | Python, YOLO, OpenCV |
+| Inventory Demand Forecasting | Predicts product demand using machine learning | Python, Scikit-learn |
+| Privacy-Preserving ResNet-20 | Explores encrypted deep learning using FHE | Python, PyTorch, CKKS |
+| Personal Music Library | Web application for organizing music links and playlists | Next.js, Supabase |
 
 ---
 
-### 🤝 Connect With Me
+## 📊 GitHub Statistics
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.Linkedin.com/in/raj-mondal)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/rm2-bit)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rm2-bit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rm2-bit&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-⭐ Thanks for visiting my profile!
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rm2-bit&theme=tokyonight&hide_border=true" />
+</p>
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rm2-bit/rm2-bit/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/rm2-bit">
+    <img src="https://img.shields.io/badge/GitHub-rm2--bit-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Code. Learn. Build. Repeat."</i>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
 
 <!--
 **rm2-bit/rm2-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
