@@ -22,7 +22,11 @@
 ```bash
 ┌──(rm2-bit㉿developer)-[~/about]
 └─$ ./initialize.sh
-// 4th-year IT @ Jalpaiguri Government Engineering College
+<p align="center">
+  <code>
+    <span style="color:#8B949E;">// 4th-year IT @ Jalpaiguri Government Engineering College</span>
+  </code>
+</p>
 [+] Identity    : Raj Mondal
 [+] Profession  : Software Engineer
 [+] Education   : Information Technology
