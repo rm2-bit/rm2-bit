@@ -8,7 +8,7 @@ I'm a final-year Information Technology student passionate about building practi
 - 🌱 Learning advanced Java, backend development, and system design.
 - 💻 Interested in Software Development, Backend Engineering, and Machine Learning.
 - 🚀 Building projects that solve real-world problems.
-- 📫 Connect with me: [LinkedIn](YOUR_LINKEDIN_URL)
+- 📫 Connect with me: [LinkedIn](https://www.Linkedin.com/in/raj-mondal)
 
 ---
 
