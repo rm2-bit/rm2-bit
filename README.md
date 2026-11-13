@@ -27,9 +27,9 @@
 [+] Profession  : Software Engineer
 [+] Education   : Information Technology
 [+] Languages   : C++, Python, Java, JavaScript
-[+] Engineering :  DSA | Security | AI-ML
-[+] Passion     : Building & Problem Solving
-[+] Mission     : Turning ideas into software
+[+] Engineering : DSA | Security | AI-ML | System Design
+[+] Passion     : Exploring new technologies, learning, and gaining hands-on experiences.
+[+] Mission     : To become an exceptional Software Engineer.
 
 [*] Status: Compiling ideas into reality...
 [✓] System initialized successfully.
