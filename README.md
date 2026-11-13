@@ -26,7 +26,8 @@
 [+] Identity    : Raj Mondal
 [+] Profession  : Software Engineer
 [+] Education   : Information Technology
-[+] Languages   : Java, Python, C++, JavaScript
+[+] College     : Jalpaiguri Government Engineering College
+[+] Languages   : C++, Python, Java, JavaScript
 [+] Engineering : DSA | Security | AI/ML | System Design
 [+] Passion     : Exploring new technologies, learning, and gaining hands-on experience.
 [+] Mission     : To become an exceptional Software Engineer.
