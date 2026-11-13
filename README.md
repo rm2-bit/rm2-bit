@@ -1,103 +1,134 @@
-# 👋 Hey, I'm Raj Mondal
+<!-- PROFILE HEADER -->
 
-### 🚀 Software Developer | Java Developer | AI/ML Enthusiast
+<h1 align="center">Hi, I'm Raj Mondal 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Building+Ideas+Into+Reality;Java+%7C+Python+%7C+AI%2FML;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Software+Developer;Java+%26+Backend+Developer;AI%2FML+Enthusiast;Building+Ideas+Into+Reality" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3" width="100%" />
+  <img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20ENGINEERING-00C2FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DOMAIN-AI%20%2F%20ML-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STATUS-BUILDING%20PROJECTS-00C853?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LOCATION-INDIA-FF9800?style=for-the-badge" />
 </p>
 
-## 💫 About Me
+---
 
+## 👨‍💻 About Me
+
+```java
 public class RajMondal {
 
-    // Final-year Information Technology Student
-    // Jalpaiguri Government Engineering College
+    String education =
+        "Information Technology | JGEC";
 
-    String role = "Software Engineer | Java Developer";
+    String role =
+        "Software Engineer";
 
-    String specialization =
-        "Backend Development | AI/ML | Problem Solving";
+    String focus =
+        "Java | Backend | AI/ML | DSA";
 
     String languages =
-        "Java | Python | C++ | JavaScript";
-
-    String technologies =
-        "Node.js | Express.js | Next.js | REST APIs";
+        "Java, Python, C++, JavaScript";
 
     String interests =
-        "Software Engineering | Machine Learning | Computer Vision";
+        "Software Engineering & Intelligent Systems";
 
-    String lookingFor =
-        "Software Engineering Opportunities";
+    String motto =
+        "Think. Code. Build. Improve.";
 
-    void build() {
+    public void build() {
         System.out.println(
-            "Turning complex problems into elegant solutions. 🚀"
+            "Turning ideas into real-world solutions 🚀"
         );
     }
 }
----
-
-## 🛠️ Tech Stack
-
-### Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript" />
-</p>
-
-### Web Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,nodejs,express,nextjs" />
-</p>
-
-### AI / Machine Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
-</p>
-
-### Tools & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,mysql,supabase" />
-</p>
+```
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Technologies |
-|---|---|---|
-| Smart Loitering Detection | Detects unusual human presence in monitored zones | Python, YOLO, OpenCV |
-| Inventory Demand Forecasting | Predicts product demand using machine learning | Python, Scikit-learn |
-| Privacy-Preserving ResNet-20 | Explores encrypted deep learning using FHE | Python, PyTorch, CKKS |
-| Personal Music Library | Web application for organizing music links and playlists | Next.js, Supabase |
+| Project | Highlights |
+|---|---|
+| 🤖 Smart Loitering Detection | Real-time human detection and zone monitoring using YOLO |
+| 📊 Inventory Demand Forecasting | Machine learning model for predicting product demand |
+| 🔐 Privacy-Preserving ResNet-20 | Deep learning with Fully Homomorphic Encryption (CKKS) |
+| 🎵 Personal Music Library | Music collection and playlist management using Next.js and Supabase |
+| ☕ Cafe 365 | Responsive e-commerce landing page |
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs,express,nextjs" />
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
+</p>
+
+### 🗄️ Database & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,supabase,firebase" />
+</p>
+
+### ⚙️ Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,vercel,bash" />
+</p>
+
+---
+
+## 🧠 Currently Exploring
+
+```python
+future_goals = {
+    "Software Engineering": [
+        "Advanced Java",
+        "Data Structures & Algorithms",
+        "System Design"
+    ],
+
+    "Backend Development": [
+        "REST APIs",
+        "Node.js",
+        "Database Design"
+    ],
+
+    "AI / ML": [
+        "Computer Vision",
+        "Deep Learning",
+        "Model Optimization"
+    ]
+}
+```
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rm2-bit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rm2-bit&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rm2-bit&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-## 🔥 Contribution Streak
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rm2-bit&theme=tokyonight&hide_border=true" />
-</p>
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rm2-bit/rm2-bit/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
 </p>
 
 ---
@@ -112,14 +143,12 @@ public class RajMondal {
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
----
-
 <p align="center">
-  <i>"Code. Learn. Build. Repeat."</i>
+  <i>"Code is not just about solving problems; it's about creating possibilities."</i>
 </p>
 
 <p align="center">
